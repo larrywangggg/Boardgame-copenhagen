@@ -26,7 +26,7 @@ public class Tile {
 
     // Inner class as Tile builder
     //Authored by EdenTian u7807670
-    static class ShapeofTile {
+    public static class ShapeofTile {
         private Tile tile;
         private int x;
         private int y;

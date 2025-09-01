@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gson-2.8.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IdeaProjects/junit-4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,16 +1,18 @@
 <component name="ProjectRunConfigurationManager">
-    <configuration default="false" name="GameTemplate" type="Application" factoryName="Application">
-        <option name="MAIN_CLASS_NAME" value="comp1110.ass2.GameTemplate" />
-        <module name="comp1110-ass2" />
-        <option name="VM_PARAMETERS" value="-ea --module-path ${PATH_TO_FX} --add-modules javafx.base,javafx.controls" />
-        <extension name="coverage">
-            <pattern>
-                <option name="PATTERN" value="comp1110.ass2.*" />
-                <option name="ENABLED" value="true" />
-            </pattern>
-        </extension>
-        <method v="2">
-            <option name="Make" enabled="true" />
-        </method>
-    </configuration>
+  <configuration default="false" name="GameTemplate" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/temurin-17.0.12/Contents/Home" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="comp1110.ass2.GameTemplate" />
+    <module name="Boardgame-copenhagen" />
+    <option name="VM_PARAMETERS" value="-ea --module-path ${PATH_TO_FX} --add-modules javafx.base,javafx.controls" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value=".*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
 </component>

@@ -1,5 +1,4 @@
-package comp1110.ass2;
-
+import comp1110.ass2.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.util.ArrayList;

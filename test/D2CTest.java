@@ -1,5 +1,5 @@
-package comp1110.ass2;
-
+import comp1110.ass2.Player;
+import comp1110.ass2.Tile;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
