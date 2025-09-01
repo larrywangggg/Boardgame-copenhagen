@@ -238,7 +238,7 @@ public class D2FTest {
         System.out.println(player2.getFacadeSheet().getLimitedShapes().toString());
         Tile.TileShape player2Tile = player2.getFacadeSheet().drawTile("P5");
         System.out.println(player2.getFacadeSheet().getLimitedShapes().toString());
-        assertTrue(player2Tile == null, "Player2 should not be able to draw P5 because it's limited and has been used by Player1");
+        assertNull(player2Tile, "Player2 should not be able to draw P5 because it's limited and has been used by Player1");
     }
 
 
